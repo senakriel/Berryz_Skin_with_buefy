@@ -1,6 +1,8 @@
 # Responsive Berryz WebShare Skin with buefy by Senakriel
 
-> [Vue.js](https://kr.vuejs.org/)를 활용한 반응형 Berryz WebShare Skin
+> [Vue.js](https://kr.vuejs.org/)를 활용한 Berryz WebShare Skin
+
+<br></br>
 
 ## 베리즈 웹쉐어(Berryz Webshare) 소개
 
